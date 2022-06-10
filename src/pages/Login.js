@@ -40,7 +40,7 @@ useEffect(() => {
 <main className="form-signin">
             <form onSubmit={handleSubmit}>
             <div className="text-center">
-                        <img className="mb-2" src="/img/logo.png" alt="" width="72" height="72" />
+                        
                         <h1 className="h3 mb-3 fw-normal">Welcome to Back</h1>
 
                         <h4 className=" mb-3 ">Please sign in</h4>

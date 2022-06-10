@@ -90,7 +90,7 @@ const links = [
                     <div>
                         <NavLink to={"/"} className="nav_logo">
                             {" "}
-                            <img src="/img/logo.png" alt="logo" className="logo" /> <span className="nav_logo-name">DaPelican</span>{" "}
+                           
                         </NavLink>
                         <div className="nav_list">
                             { links.map((link)=> ( 

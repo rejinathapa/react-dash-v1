@@ -4,7 +4,7 @@ const Dashboard = () => {
   return (
     <>
     <div className='page__main'>
-        <h1> This is a Dashboard</h1>
+        <h1>Site</h1>
     </div>
     </>
   )

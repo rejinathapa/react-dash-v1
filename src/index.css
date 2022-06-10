@@ -11,9 +11,11 @@
     --yellow-color: #fcd53b;
     --blue-color: #265df1;
     --red-color: #ef5b5b;
-    --body-font: "Nunito", sans-serif;
+    --body-font: 'Manrope', sans-serif;
     --normal-font-size: 1rem;
     --z-fixed: 100;
+
+   
   }
   
   *,

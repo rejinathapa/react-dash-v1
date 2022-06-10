@@ -5,7 +5,7 @@ const Register = () => {
         <>
             <main className="form-signin">
                 <form>
-                    <img className="mb-4" src="/img/logo.png" alt="" width="72" height="72" />
+                   
                     <h1 className="h3 mb-3 fw-normal">Register</h1>
 
                     <div className="form-floating">
